@@ -11,3 +11,11 @@ dw: Downloads the wallpaper and sets it with feh.
 ```
 
 *Reminder:* Dont use dashes or double-dashes for using the options, it won't work.
+
+## Requirements
+```
+curl
+jq
+sed
+feh
+```
